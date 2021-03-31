@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "target": "es2018",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "strict": true,
+    "strictNullChecks": true,
+    "noUnusedLocals": true,
+    "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "dist",
+    ".yarn"
+  ]
+}
